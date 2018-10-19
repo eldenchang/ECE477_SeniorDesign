@@ -1,4 +1,4 @@
-# ECE477_SeniorDesign - ScriptedKeys
+# ECE477_SeniorDesign - ScriptedKeys(Firmware)
 ### Oct. 19, 2018
 ### Qifan Chang, Andrew Betty, Andrew Hegewald, Rochak Chandra
 ## This is the repo for our project firmware.
